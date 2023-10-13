@@ -1,3 +1,22 @@
+let firstNumber;
+let secondNumber;
+
+firstNumber = 100;
+secondNumber = 200;
+
+// const obliczSume = () => {
+//   return firstNumber + secondNumber;
+// };
+
+const obliczSume = () => firstNumber + secondNumber;
+
+
+// const obliczSume = function obliczSumeFunction() {
+//   return firstNumber + secondNumber;
+// };
+console.log(obliczSume());
+// console.log(obliczSumeFunction());
+
 
 
 /* 
